@@ -1,5 +1,35 @@
+*{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+    background-color: skyblue;
+}
+
+
+
 h2{
-    color: teal;
+    text-align:center;
+    color: royalblue;
+}
+
+h3{
+
+    margin-bottom: 1em;
+}
+
+article{
+    width: 500px;
+    border: 2px solid royalblue;
+    background-color: white;
+    padding: 0;
+    margin: auto;
+    text-align:center;
+}
+
+ul{
+    list-style-position: inside;
 }
 
 .middle{
