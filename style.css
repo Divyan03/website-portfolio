@@ -4,12 +4,14 @@
 
 h1{
     margin: 0;
-    background-color: skyblue;
+    background-color: deepskyblue;
 }
 
 
 
 h2{
+    margin-top: .5em;
+    margin-bottom: .5em;
     text-align:center;
     color: royalblue;
 }
@@ -20,7 +22,7 @@ h3{
 }
 
 article{
-    width: 500px;
+    width: 550px;
     border: 2px solid royalblue;
     background-color: white;
     padding: 0;
